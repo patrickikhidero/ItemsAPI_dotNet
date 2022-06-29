@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "foALHNw8LSVcDYuLRJMwW9e7ggTuoOWjQKbuXG0v5rhZOc+BGFS9QJBNx3pX88RdqOXQPqsbYUV47IMbSfi9sw==",
+  "success": true,
+  "projectFilePath": "/Users/mac/Desktop/MyApp/build.proj",
+  "expectedPackageFiles": [
+    "/Users/mac/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.0/microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "/Users/mac/.nuget/packages/microsoft.netframework.referenceassemblies.net45/1.0.0/microsoft.netframework.referenceassemblies.net45.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
